@@ -58,6 +58,10 @@ h6 {
   box-shadow: 0 10px 29px 0 rgb(68 88 144 / 20%);
 }
 
+.ctitle:hover {
+  color: #f08d00;
+}
+
 @media (min-width: 1400px) {
   .w-lg-50 {
     width: 51% !important;
